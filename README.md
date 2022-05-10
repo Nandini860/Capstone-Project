@@ -7,7 +7,7 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 3. Customer Module - This module will be developed by 1 associates in group 
 4. Report Module - This module will be developed by 1 associates in group
 
-# TECHNOLOGGIES USED
+# TECHNOLOGIES USED
   - JAVA 
   - Spring Boot 
   - Angular 10 
